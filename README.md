@@ -12,7 +12,7 @@ https://drive.google.com/drive/folders/10UntQS401482VObHy9ROpPLlUmTr0XBd?usp=sha
 Binary Threshold Model Link:
 https://drive.google.com/drive/folders/1SP4ntEAFbku-yrYq3-TLEHY3Xzlj8fDM?usp=sharing
 
-To download the machine learning models, click the above links and download the zip files for each model.
+To download the machine learning models, click the above links and click "Download All" at the top right to download the zip files for each model.
 Create a directory with the python files and extract the zip filesin the same directory.
 Be sure to include the test image folder in the same directory.
 
